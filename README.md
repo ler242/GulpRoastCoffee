@@ -23,8 +23,3 @@ Welcome to the Gulp Roast Coffee website! This is a responsive website designed 
 - **Google Fonts**: Custom fonts for headings and body text.
 - **GitHub Pages**: Hosting the website.
 
-## How to Run the Project Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/gulp-roast-coffee.git
